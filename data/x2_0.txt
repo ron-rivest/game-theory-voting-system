@@ -1,0 +1,3 @@
+# x2_0.txt
+# two nodes, no edges
+(0) A B

@@ -1,0 +1,6 @@
+# Election example from Borger's book, page 12
+# borgers_p12.txt
+A B C (5)
+B A C (6)
+C A B (7)
+

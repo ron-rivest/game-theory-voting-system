@@ -1,0 +1,3 @@
+# x2_1.txt
+# two nodes, one edge
+(10) A B

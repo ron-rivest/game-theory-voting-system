@@ -1,0 +1,9 @@
+# x5_5a.txt
+# cycle of length 5
+## missing_preferred_less False
+
+(10) A B 
+(1)  B C
+(1)  C D
+(1)  D E
+(1)  E A

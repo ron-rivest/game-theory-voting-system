@@ -1,0 +1,9 @@
+# x4_6a.txt
+# 4 candidates, 6 edges
+## missing_preferred_less False
+(10) A C
+(10) C D
+(10) B D
+(10) A B
+(10) D A
+(10) C B

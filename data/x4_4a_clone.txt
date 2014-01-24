@@ -1,0 +1,9 @@
+# x4_4a_clone.txt
+# 5 candidates, 5 edges
+# like x4_4a, except that B has been cloned to B1, B2
+## missing_preferred_less False
+(10) A C
+(10) C D
+(10) D A
+(10) B1 A
+(10) B2 A

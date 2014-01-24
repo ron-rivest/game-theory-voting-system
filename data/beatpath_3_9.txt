@@ -1,0 +1,18 @@
+# beatpath3_9.txt
+# Example 9 from Section 3 of
+# Schulze's paper, page 120.
+# Note that this uses the "=" option in ballots, allowing
+# voters to say that two candidates are equal in preference.
+
+(6) A B C D
+(8) A = B C = D
+(8) A = C B = D
+(18) A = C D B
+(8) A = C = D B
+(40) B A = C = D
+(4) C B D A
+(9) C D A B
+(8) C = D A = B
+(14) D A B C
+(11) D B C A
+(4) D C A B

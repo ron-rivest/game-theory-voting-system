@@ -1,0 +1,10 @@
+# x6_6a.txt
+# cycle of length 6
+## missing_preferred_less False
+
+(10) A B 
+(1)  B C
+(1)  C D
+(1)  D E
+(1)  E F
+(1)  F A

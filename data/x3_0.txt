@@ -1,0 +1,3 @@
+# x3_0.txt
+# 3 candidates, 0 edges
+(0) A B C

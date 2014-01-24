@@ -1,0 +1,21 @@
+# ex_20.txt
+
+# two independent cycles of different sizes
+# one is A B C
+# one is D E F G
+
+# allow truncated ballots without assuming
+# that missing candidate names are preferred less
+# than those listed.
+
+## missing_preferred_less false
+
+(10) A B C 
+(10) B C A
+(10) C A B
+
+(20) D E F G
+(20) E F G D
+(20) F G D E
+(20) G D E F
+

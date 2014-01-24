@@ -1,0 +1,446 @@
+# 
+# fairvote.txt
+# Data from data file: irvtest/irvtest.blt from FairVote web site
+# 659 ballots
+# Note: there are some ballot coding errors here, for following ballots:
+#      (printed as they occur in original fairvote data)
+#      1202) 3  7  8  25
+#      1348) 7  4  8  1  2  3  6  25
+#      1546) 8  3  7  27  5
+#      (the entries for "candidates" 25 and 27 were deleted)
+# The entries were all recoded from numeric to alphabetic:
+#     i --> A[i-1] where
+#     A = ["A","B","C","D","E","F","G","H","I","W"]
+#
+
+A
+A B C (2)
+A B C D E F G H I
+A B C D E F H I
+A B C G H D E F I
+A B C H E
+A B C I E G D F H
+A B F C
+A B H G F C D I E
+A C (4)
+A C B E H F D G I
+A C B G F H
+A C E F G I
+A C E F I D G H B
+A C E G H
+A C F
+A C F G H B D E I
+A C F H B
+A C F H B G D E I
+A C F H I G E D B
+A C G F
+A C G H B D E F I
+A C G I B D E F H
+A C H F G
+A C I B (2)
+A C I F
+A D C H F G B I
+A D F B C E G H I
+A E C
+A E C F G H
+A E F G H
+A F
+A F B C H D E G I
+A F H C
+A G (2)
+A G C (2)
+A G C E
+A G C F
+A G D C
+A G E D F I B C H
+A G E H
+A G F B C E
+A G F C B H D E I
+A G H (3)
+A G H D
+A G H I
+A G I
+A G I H
+A H
+A H C E B
+A H C G F
+A H D I E B C F
+A H E F I D C B G
+A H G
+A W C
+B (5)
+B A
+B A C G I E
+B A H C
+B C (2)
+B C D E F G H A I
+B C E
+B C E F H
+B C F H
+B C H E F
+B D F H
+B E F G H
+B E G H
+B E G H C A I D F (2)
+B F C E G I
+B F G C
+B F H C
+B F H D E A I C
+B G
+B G C
+B G D C
+B G F C E
+B G F E
+B H C
+B H C G
+B H D C (2)
+B H G
+B I C G E
+B I D G
+C (15)
+C A B I H G F D E
+C A F G H
+C A G E H F
+C A H
+C A H B F
+C A H D G
+C A H I G
+C B
+C B A E H G I F D
+C B D G H I
+C B E H G
+C B F
+C B F G H I A D E
+C B G H
+C D A B E H G F I
+C D E F
+C D E F G H A I B
+C D E G H (2)
+C D E H I A B F G
+C D F G H
+C E
+C E A B G D F I H
+C E A F H G
+C E A G
+C E A H F B D G I
+C E F G H A B D I
+C E F H (3)
+C E G
+C E G A
+C E G D H
+C E G F H
+C E G H (2)
+C E G H A B D F I
+C E G H I A B D F
+C E G H I A F B D
+C E G H I F D B A
+C E G I A
+C E G I A B D F H
+C E G I B A D F H
+C E H (5)
+C E H F
+C E H G F B
+C F (3)
+C F E B
+C F G (3)
+C F G H (4)
+C F G I E
+C F H
+C F H A
+C F H I
+C G (7)
+C G A
+C G B D I
+C G B E
+C G D I A B E F H
+C G E (3)
+C G E F H
+C G E F H D A B I
+C G E H
+C G E H A B F I
+C G E H F
+C G E I H A F D B
+C G F A E H D
+C G F E
+C G H (9)
+C G H A B D E F I
+C G H B D
+C G H E
+C G H E F B I
+C G H E F I
+C G H F
+C G H F E D A
+C G H F E I D B A
+C G I B A E H F D
+C H (5)
+C H A B G
+C H A G B F I E D
+C H E
+C H E I B D G F
+C H F G A D B I E
+C H F I E B A G D
+C H G (5)
+C H G B I E F A D
+C H G E
+C H G E A F D
+C H G F
+C I H G
+D (2)
+D C
+D C A (2)
+D C A B (2)
+D E H C A B G I F
+D F C
+D G B
+D H B C
+D H C
+E (4)
+E B
+E B C
+E B C F
+E B C G H A D F I
+E B F G
+E C (2)
+E C G H
+E D C
+E F A D B C
+E F D G H C (2)
+E F G
+E F G H C B D I A
+E F H C
+E G C (3)
+E G H
+E G H F C D A B I
+E H A C G I B D
+E H C (2)
+E H C G
+E I H C (2)
+F (2)
+F A C
+F A C G
+F B C
+F C (3)
+F C B G
+F C B G I E H A D
+F C D E G H
+F C E B H D G I A
+F C E G H B I D A
+F C H
+F C H A
+F D B G
+F D C
+F E D C
+F E D G
+F G
+F G B C A
+F G B C H
+F G C
+F G C H D B I A E
+F G D H B C A I E
+F G H B C E
+F G H E (2)
+F G H E C A D I B
+F H C (2)
+F I
+G (33)
+G A (3)
+G A B C
+G A B H
+G A C
+G A C F
+G A C F D B E H I
+G A C I E
+G A H (2)
+G A H C (2)
+G A H D B I F E C
+G A H I D B C E F
+G B (6)
+G B A
+G B C (2)
+G B C H
+G B C H E F I D A
+G B E
+G B E I F D
+G B F
+G B H A
+G B H F
+G B I H F E D C A
+G C (12)
+G C A (3)
+G C A E
+G C A F E I D H B
+G C B D E
+G C B E
+G C B F H
+G C E
+G C E D H
+G C E F B
+G C E F D H A I
+G C E F H
+G C E H
+G C E I
+G C F (2)
+G C F B A I
+G C F H
+G C H (8)
+G C H B
+G C H D (2)
+G C H E A B D I F
+G C H E D
+G C H E F B D A I
+G C H F
+G C I
+G C I A B H D E F
+G C I E
+G C I H E F A B D
+G D
+G D C I
+G D E H F
+G D H A B C F
+G E (2)
+G E A C B D F H I
+G E A F H
+G E B
+G E B I C H
+G E C (2)
+G E C H (2)
+G E C H F
+G E D A F C H
+G E F H C B I D A
+G E H (2)
+G E H F I
+G E I
+G F B A
+G F C (2)
+G F C H E (2)
+G F D A
+G F D E
+G F E D C
+G F H C E D B A I
+G H (15)
+G H A (5)
+G H A B C F I E D
+G H A C
+G H A C B
+G H A C D
+G H A C F B (2)
+G H A F C B I E D
+G H B (3)
+G H B C (2)
+G H B C D
+G H C (3)
+G H C B A I
+G H C B F
+G H C B F I E A
+G H C D
+G H C E F
+G H C F (2)
+G H C F A
+G H C F D E
+G H C F I E
+G H C I
+G H E
+G H E D
+G H E D C B A F I
+G H F C (4)
+G H F E B A
+G H F E D C B A I
+G H I E C
+G I A H
+G I B H
+G I F
+G I H B
+H (3)
+H A B C (2)
+H A C (2)
+H A C G
+H A E
+H A F C
+H A I G
+H B C (3)
+H C (11)
+H C A (3)
+H C A B D E I F G
+H C A E G I D B
+H C B F
+H C E
+H C E B
+H C E D F
+H C E D G B A F I
+H C E F D B A I
+H C F (2)
+H C F A E B D I
+H C F A E I D B G
+H C F E
+H C F G (2)
+H C F G A I B E D
+H C F G A I E D B
+H C F G B
+H C G (6)
+H C G A (2)
+H C G B
+H C G E (2)
+H C G E D F
+H C I G
+H D A C I G B E F
+H D C (2)
+H D C A
+H D E B C
+H E
+H E A C
+H E B D I F A C
+H E C (2)
+H E C F I A
+H E C G (3)
+H E D I F G C B A
+H E F C
+H E F I B D C A
+H E I
+H E I C
+H F A C
+H F A G
+H F C (2)
+H F C A B D E I
+H F C B E G A I D
+H F D B I E C A
+H F D C B
+H F I C
+H G (3)
+H G B C F
+H G B I
+H G C E A F D
+H G E C (2)
+H G F A B I D E C
+H G F A C B D E I
+H G F C
+H G F E D A C
+H I
+H I C (2)
+H I E C
+H I E C A B D F
+H W D C
+I (4)
+I A C (2)
+I C (2)
+I C G F B
+I D F C
+I D H C F B E
+I E B C G H F D A
+I F C
+I G
+I G C A
+I G C B H
+I G C E A
+I G E C B (2)
+I G E H C D
+I H
+I H C F A
+I H E C
+I H G F E D C B A
+W
+W A B C
+W A C
+W C (3)
+W C E
+W G E H F
+W G H

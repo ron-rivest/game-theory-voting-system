@@ -1,0 +1,16 @@
+# 
+# ex_11.txt
+#
+# The standard MFW picks C, and locks in to w=C r=D (this is stable).
+# (But it could just as well have locked into w=A r=D (same by symmetry).)
+# So winning counts just have C winning, and A, B, D as no-shows.
+# Interesting that not all members of Smith set end up as winners.
+#
+# Here MFW variant picks D, even though he is not in Smith set
+# When A is winner, D gains 29, but B and C gain 10 and 20 only.
+# 
+
+A B C D (10)
+B C A D (10)
+C A B D (10)
+D (29)

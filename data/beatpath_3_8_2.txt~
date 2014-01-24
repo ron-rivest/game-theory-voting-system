@@ -1,0 +1,18 @@
+# beatpath_3_8_1.txt
+# Example 8 (situation 1)  from Section 3 of
+# Schulze's paper, page 104
+
+(5) A C B E D
+(5) A D E C B
+(8) B E D A C
+(3) C A B E D
+(7) C A E B D
+(2) C B A D E
+(7) D C E B A
+(8) E B A D C
+
+
+
+
+
+

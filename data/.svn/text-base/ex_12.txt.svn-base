@@ -1,0 +1,20 @@
+#
+# ex_12.txt
+#
+# found by routine mfw.hunt
+
+    C A  (3)  
+    B C A  (3)  
+    B  (3)  
+    C A B  (2)  
+    A C  (2)  
+    A  (2)  
+    C B A  (1)  
+    C B  (1)  
+    B A C  (1)  
+    B A  (1)  
+    A C B  (1)  
+    A B C  (1)  
+    C  (0)  
+    B C  (0)  
+    A B  (0)  

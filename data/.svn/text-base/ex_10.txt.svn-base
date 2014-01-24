@@ -1,0 +1,8 @@
+# 
+# ex_10.txt
+# same as example_9, with loser D thrown in
+# 
+A B C D (40)
+B C D A (30)
+C A D B (20)
+D C B A (10)

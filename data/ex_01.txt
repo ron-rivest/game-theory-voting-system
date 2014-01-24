@@ -1,0 +1,6 @@
+#
+# ex_01.txt
+#
+A B C (40)   # test having comment here
+B C A (40)
+C A B (40)

@@ -1,0 +1,8 @@
+#
+# ex_08.txt
+# four-cycle
+#
+A B C D (10)
+B C D A (10)
+C D A B (10)
+D A B C (10)

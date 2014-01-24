@@ -1,0 +1,10 @@
+# ex_16.txt
+
+# from http://fc.antioch.edu/~james_green-armytage/vm/antimargins.htm
+# Example 2 (Here B voters tries to bury A, by placing C ahead of A)
+# (A wins with MFW (variant #4), contrary to Armytage's concerns... MFW does well here!)
+
+A B C (46)
+B C A (44)
+C A B (5)
+C B A (5)

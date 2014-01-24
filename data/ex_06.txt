@@ -1,0 +1,7 @@
+#
+# ex_06.txt
+# for smith set computations
+#
+A B C D E F G H I (1000)
+B C A D E F H I G (1000)
+C A B D E F I G H (1000)

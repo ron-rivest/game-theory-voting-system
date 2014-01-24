@@ -1,0 +1,12 @@
+# x8_8a.txt
+# cycle of length 8
+## missing_preferred_less False
+
+(10) A B 
+(1)  B C
+(1)  C D
+(1)  D E
+(1)  E F
+(1)  F G
+(1)  G H
+(1)  H A

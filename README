@@ -1,0 +1,73 @@
+README 
+Ronald L. Rivest and Emily Shen
+March 29, 2010
+
+This is about material posted in the directory:
+   http://people.csail.mit.edu/rivest/gt
+
+This is the README file for the code and experimental results
+for the GT Voting System, as described in:
+   "An Optimal Single-Winner Preferential Voting System 
+    Based on Game Theory"
+   by Ronald L. Rivest and Emily Shen
+This paper is posted on Rivest's publication page:
+   http://people.csail.mit.edu/rivest/publications.html
+   as well as being given in this directory. (The 
+   former may be more up-to-date.)
+
+This directory contains the following files:
+
+README	    This file.
+
+vs.py	    The main voting system program, including
+            code for reading election profiles, computing
+            winners according to various voting systems,
+            and comparing various voting systems to each other.
+            Written in python (tested in python 2.6).
+	    It requires game_cvxopt.py .
+
+	    It can be run on an election profile, as
+	        python vs.py data/ex_15.txt
+	    or used to compare various voting systems
+	    on simulated data, as
+                python vs.py -compare
+
+game_cvxopt.py
+
+            This is a python module that solves two-person
+            zero-sum games, using the CVXOPT package
+ 	    (which must be loaded separately; see
+                http://abel.ee.ucla.edu/cvxopt/
+	    ). It contains an "LP"-based solver,
+            which returns *some* optimal mixed
+            strategy, and also a "QP"-based solver,
+            which returns the unique *balanced* optimal
+            mixed strategy (minimizing sum of squares).
+	    This module is called by vs.py.
+
+data	    This is a subdirectory containing various
+            sample election profiles as ".txt" files,
+            and also the corresponding margin matrices
+            (as ".margin" files)
+
+experiment5 This directory contains the code and output
+            for the experiment reported in our paper.
+
+gtlp.m	    Matlab code for solving two-person zero-sum
+            game using LP solver.  (Can be run on data
+            available in a ".margin" file.)  Returns
+            *some* optimal mixed strategy.  Not used
+	    for the results in our paper, but might
+	    be of interest to some folks.
+
+gtqp.m      Matlab code for solving two-person zero-sum
+            game using QP solver. (Can be run on data
+            available in a ".margin" file.)  Returns
+            the unique optimal *balanced* mixed
+	    strategy (minimizing sum of squares).
+	    Not used for the results in our paper,
+	    but might be of interest to some folks.
+
+gt.pdf	    The paper describing the GT voting system.
+            (May not be most recent.)
+

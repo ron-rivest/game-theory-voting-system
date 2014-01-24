@@ -1,0 +1,23 @@
+# ex_15.txt
+
+# playing around to see what happens with MB-MFW with two cycles,
+# one of which is preferred to the other
+
+## missing_preferred_less false
+
+# first cycle
+A B (2)
+B C (20)
+C A (200)
+
+# second cycle
+D E (1)
+E F (10)
+F D (100)
+
+# prefer second cycle to first cycle
+# note all alternatives listed, since with missing_preferred_less false,
+# otherwise elements in DEF are tied with ABC, which means there are
+# edges both ways for Smith-set computation, giving ABCDEF as Smith set
+# which is not what we want...
+D E F A B C (1)

@@ -1,0 +1,5 @@
+# ex_25.txt
+# example showing use of = signs
+A B = C D (7)
+A = B C = D (100)
+E = F

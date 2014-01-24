@@ -1,0 +1,9 @@
+#
+# ex_04.txt
+#
+A B C (4)
+A C B (4)
+B A C (4)
+B C A (4)
+C A B (1)
+

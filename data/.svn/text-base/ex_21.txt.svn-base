@@ -1,0 +1,23 @@
+# ex_21.txt
+
+# two independent cycles of different sizes
+# one is A B C
+# one is D E F G
+# same as example_20, except that within cyle
+# the numbers are not always constant...
+
+# allow truncated ballots without assuming
+# that missing candidate names are preferred less
+# than those listed.
+
+## missing_preferred_less false
+
+(10) A B C 
+(11) B C A
+(12) C A B
+
+(21) D E F G
+(22) E F G D
+(23) F G D E
+(24) G D E F
+

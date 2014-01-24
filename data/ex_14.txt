@@ -1,0 +1,15 @@
+# ex_14.txt
+
+# illustrates use of parameter setting ability
+# next line shows how to set parameter named "missing_preferred_less"
+# which causes routine that computes preference matrix to do nothing
+# about candidates that are not listed.
+# (The default is that they are treated as less preferred than those listed.)
+# This gives an easy way to enter a preference matrix.
+
+## missing_preferred_less false
+
+A B (1)      # says A preferred to B, but now says nothing about C
+B C (1)      # similarly
+C A (1)      # similarly
+

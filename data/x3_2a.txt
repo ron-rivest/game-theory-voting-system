@@ -1,0 +1,5 @@
+# x3_2a.txt
+# 3 candidates, 2 edges
+## missing_preferred_less False
+(10) A C
+(20) B C

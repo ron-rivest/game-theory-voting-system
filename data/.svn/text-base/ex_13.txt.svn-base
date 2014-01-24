@@ -1,0 +1,10 @@
+# ex_13.txt
+# Example for MB-MFW
+
+A B C (11)
+B C A (110)
+C A B (101)
+
+# A over B by 2
+# B over C by 20
+# C over A by 200

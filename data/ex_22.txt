@@ -1,0 +1,12 @@
+# ex_22.txt
+
+# a three cycle B C D, with A beating B as well
+# optimal strategies seem to have P(B)=P(D)=0,
+# and P(A) \ge P(C).
+
+## missing_preferred_less False
+
+(10) A B
+(30) B C
+(40) C D
+(50) D B

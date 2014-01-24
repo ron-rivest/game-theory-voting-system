@@ -1,0 +1,17 @@
+# ex_23.txt
+
+# several independent pieces
+## missing_preferred_less False
+
+# A preferred to B
+(10) A B
+
+# C and D each preferred to E
+(10) C E
+(10) D E
+
+# F, G, and H in a three-cycle
+(10) F G
+(10) G H
+(10) H F
+

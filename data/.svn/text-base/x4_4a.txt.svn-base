@@ -1,0 +1,7 @@
+# x4_4a.txt
+# 4 candidates, 4 edges
+## missing_preferred_less False
+(10) A C
+(10) C D
+(10) D A
+(10) B A

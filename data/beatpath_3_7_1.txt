@@ -1,0 +1,16 @@
+# beatpath_3_7_1.txt
+# Example 7 (situation 1)  from Section 3 of
+# Schulze's paper, page 86
+
+(3) A D E B C F
+(3) B F E C D A
+(4) C A B F D E
+(1) D B C E F A
+(4) D E F A B C
+(2) E C B D F A
+(2) F A C D B E
+
+
+
+
+

@@ -1,0 +1,11 @@
+# beatpath_3_2.txt
+# Example 2 from Section 3 of
+# Schulze's paper, page 38
+
+(3) A C B D
+(8) A C D B
+(3) B A D C
+(6) C B D A
+(6) D B A C
+(4) D C B A
+

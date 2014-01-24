@@ -1,0 +1,6 @@
+# ex_17.txt
+
+    (40) A B C D
+    (30) B C A D
+    (20) C A B D
+    (10) C B A D

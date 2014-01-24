@@ -1,0 +1,13 @@
+#
+# ex_07.txt
+# from I.A.3.b in http://fc.antioch.edu/~james_green-armytage/vm/survey.htm
+#
+(6)  A B C D
+(6)  D C A B
+(6)  B C A D
+(5)  D A B C
+(4)  C A B D
+(4)  D B C A
+(2)  B C D A
+(2)  A C B D
+(1)  A C D B
